@@ -50,10 +50,6 @@ Everything runs on your own machine, ensuring complete privacy while eliminating
 
 ## RAG Pipeline
 
-<p align="center">
-  <img src="assets/pipeline.png" width="100%" alt="Pipeline"/>
-</p>
-
 The complete workflow follows these steps:
 
 1. Load Documents
