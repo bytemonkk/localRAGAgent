@@ -1,6 +1,5 @@
 # localRAGAgent
 A fully local Retrieval-Augmented Generation (RAG) AI agent built with Ollama, LangChain, and ChromaDB.
-# LocalRAGAgent
 
 > **Build and run a fully local Retrieval-Augmented Generation (RAG) AI agent using Python, Ollama, LangChain, and ChromaDB — completely offline, private, and free.**
 
