@@ -19,21 +19,6 @@ Everything runs on your own machine, ensuring complete privacy while eliminating
 
 ---
 
-## Features
-
-- Local LLM inference using **Llama 3.2**
-- Local embeddings with **mxbai-embed-large**
-- LangChain-powered RAG pipeline
-- ChromaDB vector database
-- PDF document ingestion
-- Semantic similarity search
-- Context-aware AI responses
-- 100% Local & Private
-- No API Keys Required
-- Fast Retrieval
-
----
-
 ## Tech Stack
 
 | Technology | Purpose |
